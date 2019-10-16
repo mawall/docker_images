@@ -1,9 +1,0 @@
-[submodule "pypcl"]
-	path = pypcl
-	url = git@github.com:mawall/pypcl.git
-[submodule "ubuntu16.04_base"]
-	path = ubuntu16.04_base
-	url = git@github.com:mawall/ubuntu16.04_base.git
-[submodule "tf_pypcl"]
-	path = tf_pypcl
-	url = git@github.com:mawall/tf_pypcl.git
