@@ -1,0 +1,12 @@
+[submodule "ubuntu16.04_base"]
+	path = ubuntu16.04_base
+	url = git@github.com:mawall/ubuntu16.04_base.git
+[submodule "python-pcl"]
+	path = python-pcl
+	url = git@github.com:mawall/python-pcl.git
+[submodule "py_pointcloud"]
+	path = py_pointcloud
+	url = git@github.com:mawall/py_pointcloud.git
+[submodule "tf_pointcloud"]
+	path = tf_pointcloud
+	url = git@github.com:mawall/tf_pointcloud.git
