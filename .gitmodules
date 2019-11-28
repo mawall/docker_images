@@ -10,3 +10,6 @@
 [submodule "tf_pointcloud"]
 	path = tf_pointcloud
 	url = git@github.com:mawall/tf_pointcloud.git
+[submodule "mx_pointcloud"]
+	path = mx_pointcloud
+	url = git@github.com:mawall/mx_pointcloud.git
