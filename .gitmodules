@@ -13,3 +13,6 @@
 [submodule "mx_pointcloud"]
 	path = mx_pointcloud
 	url = git@github.com:mawall/mx_pointcloud.git
+[submodule "pt_pointcloud"]
+	path = pt_pointcloud
+	url = git@github.com:mawall/pt_pointcloud.git
