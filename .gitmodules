@@ -16,3 +16,6 @@
 [submodule "pt_pointcloud"]
 	path = pt_pointcloud
 	url = git@github.com:mawall/pt_pointcloud.git
+[submodule "pt_cuda_pointcloud"]
+	path = pt_cuda_pointcloud
+	url = git@github.com:mawall/pt_cuda_pointcloud.git
