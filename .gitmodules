@@ -19,3 +19,6 @@
 [submodule "pt_cuda_pointcloud"]
 	path = pt_cuda_pointcloud
 	url = git@github.com:mawall/pt_cuda_pointcloud.git
+[submodule "ubuntu20.04_base"]
+	path = ubuntu20.04_base
+	url = git@github.com:mawall/ubuntu20.04_base.git
