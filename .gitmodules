@@ -22,3 +22,6 @@
 [submodule "ubuntu20.04_base"]
 	path = ubuntu20.04_base
 	url = git@github.com:mawall/ubuntu20.04_base.git
+[submodule "cpp_base"]
+	path = cpp_base
+	url = git@github.com:mawall/cpp_base.git
